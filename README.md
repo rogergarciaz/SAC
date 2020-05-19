@@ -6,8 +6,8 @@ _System of Critical Alerts was the result of 3 months of work. This software was
 embedded systems. The system gives you an alert every time that the parameters pass certain treehold._
 
 ## Description
-![General Data](https://gist.github.com/rogergarciaz/SAC/master/General.PNG)
-![User Interface](https://gist.github.com/rogergarciaz/SAC/master/UI.PNG)
+![General Data](https://github.com/rogergarciaz/SAC/blob/master/General.PNG)
+![User Interface](https://github.com/rogergarciaz/SAC/blob/master/UI.PNG)
 
 ## Tools
 * [Python](https://www.python.org/)
